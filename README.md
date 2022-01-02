@@ -1,5 +1,5 @@
 <p align="center">
   <b>"Hazze"</b><br>
-  <a href="https://hazze.solutions">website</a><br>
-  <a href="https://hazze.xyz">private csgo cheat</a>
+  <a href="">website [WIP]</a><br>
+  <a href="">private csgo cheat [WIP]</a>
 </p>
