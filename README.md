@@ -1,3 +1,3 @@
 <p align="center">
-  <b>"Hazze"</b><br>
+  <b>"Hazzo"</b><br>
 </p>
